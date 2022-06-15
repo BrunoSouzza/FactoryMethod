@@ -4,7 +4,7 @@ using FactoryMethod.ConcreteCreator;
 using FactoryMethod.Creator;
 using FactoryMethod.Product;
 
-Console.WriteLine("Selecione seu cartão.");
+Console.WriteLine("Choose your Credit Card.");
 Console.WriteLine("1: Gold");
 Console.WriteLine("2: Black");
 Console.WriteLine("3: Platinum");
